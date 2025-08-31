@@ -12,12 +12,6 @@ body {
   justify-content: center;
 }
 
-.logo {
-  animation-name: rotation;
-  animation-duration: 8s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
 
 .logo:hover {
   animation-play-state: paused;
@@ -75,6 +69,7 @@ body {
 .gta-img {
   flex: 1.5;
   height: 330px;
+  width: 330px;
   display: flex;
   justify-content: center;
   align-items: flex-end;
