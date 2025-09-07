@@ -95,7 +95,7 @@ body {
   overflow-y: clip;
 }
 .fortnite-img:hover {
-  background-color: #71e66e;
+  background-color: #f3bd48;
 }
 
 .dota-img {
@@ -116,7 +116,7 @@ body {
   height: 100%;
 }
 .dota-img:hover {
-  background-color: #fcb8ff;
+  background-color: #5680f3;
 }
 
 .footer-link:nth-child(2) {
